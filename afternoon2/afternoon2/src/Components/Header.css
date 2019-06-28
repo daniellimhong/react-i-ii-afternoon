@@ -1,0 +1,9 @@
+.Header {
+    width: 100%;
+    min-height: 90px;
+    background: rgb(104, 192, 226);
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    
+}
